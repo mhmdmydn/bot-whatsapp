@@ -1,0 +1,24 @@
+{
+    "key": {
+        "remoteJid": "6285813818822@s.whatsapp.net",
+        "fromMe": false,
+        "id": "B1FF9B29C42941D3C86F36249F52BE34"
+    },
+    "message": {
+        "documentMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AiMUH96J2CnQeH-4M6tsncKUu36-A7wmX_El8JZxcboY.enc",
+            "mimetype": "application/zip",
+            "title": "AndroidCanvasBasics.zip",
+            "fileSha256": "2oY7IfmXRzm+qaT1DqTphm3WFOks+Pu9BDpE0H3TYic=",
+            "fileLength": "765863",
+            "pageCount": 0,
+            "mediaKey": "hYYSYmJk4W/ImSiV7+AlDstiIGczjGUDXxyNWq/A5vk=",
+            "fileName": "AndroidCanvasBasics.zip",
+            "fileEncSha256": "zyIBS6TIxIwhnZNAeuazw0VORq/2kHti5Zupp00CTLo=",
+            "directPath": "/v/t62.7119-24/34646391_484817733000900_7887532426887358456_n.enc?ccb=11-4&oh=07e33e335d200986a9e801e95dc779eb&oe=61D6557E",
+            "mediaKeyTimestamp": "1639074380"
+        }
+    },
+    "messageTimestamp": "1639074383",
+    "ephemeralOutOfSync": false
+}

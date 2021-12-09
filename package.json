@@ -1,0 +1,37 @@
+{
+  "name": "bot-whatsapp",
+  "version": "1.0.0",
+  "description": "Belajar membuat bot whatsapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "wa",
+    "robot",
+    "bot",
+    "bot-whatsapp",
+    "botwhatsapp",
+    "botwa",
+    "bot-wa"
+  ],
+  "author": "Muhammad Mayudin",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "puppeteer": "^12.0.1",
+    "qrcode": "^1.5.0",
+    "sharp": "^0.29.3",
+    "socket.io": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

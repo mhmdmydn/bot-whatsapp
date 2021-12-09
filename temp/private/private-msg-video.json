@@ -1,0 +1,26 @@
+{
+    "key": {
+        "remoteJid": "6285813818822@s.whatsapp.net",
+        "fromMe": false,
+        "id": "0B84036B971B8B33CCBEC801CE8A10E3"
+    },
+    "message": {
+        "videoMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AihERNKiRzqQWTp1tosuZgViSX-2cPkpKSHGkekNCdw1.enc",
+            "mimetype": "video/mp4",
+            "fileSha256": "r9afVT1GeIgmDN2vCniCHlV47vrzCWuPJDda6QsZt8o=",
+            "fileLength": "712971",
+            "seconds": 3,
+            "mediaKey": "ZiPjIVeylp+mkmW13bJ5YGZTFtsTQcSLijogUi+s9G8=",
+            "height": 1280,
+            "width": 720,
+            "fileEncSha256": "iZd+j4Aj0slocCYKbgC133XlGWwbHNSz6P+CbPjoeUo=",
+            "directPath": "/v/t62.7161-24/20104189_902161560486247_8616650146141993063_n.enc?ccb=11-4&oh=9b666205bd0d188b7baafe3ab6cdbb73&oe=61D7793E",
+            "mediaKeyTimestamp": "1639074059",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAKAMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAAAAgMEAQUBAQEBAQAAAAAAAAAAAAAAAAEAAgP/2gAMAwEAAhADEAAAANFndeUSeGgpSV7Hq1lemM4zSYeOufd5+7z94ahyVnVahoSlcGJh0DHWDTEAf//EACUQAAICAgIBBAIDAAAAAAAAAAECABEDIQQSMQUTIkEQIxQkYf/aAAgBAQABPwDk5s2PLS0EAskxczHHjP2wiElS52YjEj5CotZSTRAB1MnTsQy9tbi4xkUaoAamT9IUXDkNOaIryJiyqwAB8zL0LnuSNQ50wKLOiIf7CArDiyqDe+xiK1iquvMfGzdqIFiNg7HFu+kxYxjuzGplAirVRztQGoz3MeI/I7M9Q9RyYMpRROFyhycQb7nyI1CNjxOopnYWbnO4GXkZA4dZweL/ABsXX8MDYIjFexDWBGRSQfKmGlX/AARGVga+oTGAbVwKHPnQhF0IAB4j9yRO3tMugZQ6m9XMbAoADYnHw+ycv7GYMb3P/8QAHhEBAAMAAQUBAAAAAAAAAAAAAQACERIQICEiMTL/2gAIAQIBAT8ADMWviWpdtzPzB0miVGzFcQ+Svyb3Hq7OTmdP/8QAHhEAAgICAgMAAAAAAAAAAAAAAREAEgIxECEgMkL/2gAIAQMBAT8AYZDl8fX6MRG5XABjZ3K4uy7nZ3wPGgZMqG+P/9k=",
+            "streamingSidecar": "C96yQM/x7GMwtQI8qMr7IyxPgCOPFyepMpLsZDQxwWZpSVR4Mb8MEiObQwxDD5IIEeYmWrZvkSKKH9VjnrwHmyBV5nN+S7ebw+nd8aBBy5x1z8AjqgftoaSnJCCxwAj+0sAqkRmKPLbCy7t+sjg="
+        }
+    },
+    "messageTimestamp": "1639074288",
+    "ephemeralOutOfSync": false
+}

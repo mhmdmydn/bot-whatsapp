@@ -1,0 +1,15 @@
+[
+    {
+        "key": {
+            "remoteJid": "120363022275948449@g.us",
+            "fromMe": false,
+            "id": "1938D7CED9EB19F00BD897BA5C4AB961"
+        },
+        "message": {
+            "conversation": "Cfghh"
+        },
+        "messageTimestamp": "1639075662",
+        "participant": "6285813818822@s.whatsapp.net",
+        "ephemeralOutOfSync": false
+    }
+]

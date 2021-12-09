@@ -1,0 +1,23 @@
+{
+    "key": {
+        "remoteJid": "6285813818822@s.whatsapp.net",
+        "fromMe": false,
+        "id": "6C69095D6490C21384C6564614FD24BE"
+    },
+    "message": {
+        "audioMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AvQGui5Ih-emuUlTLJFDW3qT3kOm4iU_UT-NKQUf7BzS.enc",
+            "mimetype": "audio/mpeg",
+            "fileSha256": "kayi3bytZYid2IiAjZ9TzxAEwAhV0NLYOuGfwtyX5BU=",
+            "fileLength": "5161932",
+            "seconds": 322,
+            "ptt": false,
+            "mediaKey": "Rmv0eHNRuS9HRNdUJzEkdhOgeC70wqWdGxhci/bB788=",
+            "fileEncSha256": "6p3BJX1f9EQekZWZgSz/DhKb6CyHm0MOoDvI7IKZNGQ=",
+            "directPath": "/v/t62.7114-24/30503761_891299101587683_875126178143867633_n.enc?ccb=11-4&oh=ea408a105623cf45603a86e1ab0479b0&oe=61D8CC60",
+            "mediaKeyTimestamp": "1639074750"
+        }
+    },
+    "messageTimestamp": "1639074758",
+    "ephemeralOutOfSync": false
+}

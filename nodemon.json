@@ -1,0 +1,3 @@
+{
+	"ignore": ["./app/message/session/wa-session.json"]
+}

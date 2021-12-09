@@ -1,0 +1,26 @@
+{
+    "key": {
+        "remoteJid": "6285813818822@s.whatsapp.net",
+        "fromMe": false,
+        "id": "29E7A107E2C38ADDBE3FB70B61700341"
+    },
+    "message": {
+        "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AqH2UZ0ll_Dch9sSHu6VungVZMFoAoIoEww0LoIMWi4Z.enc",
+            "fileSha256": "hOizNxvE87d88sbQD2u282EpZ785KN5bI2ggxFIrhtY=",
+            "fileEncSha256": "AKiWZDTPiJIDcm/XTIfZmrlf9yVW2axl11MIg5vWV1A=",
+            "mediaKey": "QNxIqtVI6dYx0oXR/4zggy0ceK9jDbuTOOZdhNHKxcU=",
+            "mimetype": "image/webp",
+            "height": 512,
+            "width": 512,
+            "directPath": "/v/t62.15575-24/11980465_924781368466041_6548502709171297934_n.enc?ccb=11-4&oh=a2583be7c1338279f3164706f46a00c3&oe=61D6D232",
+            "fileLength": "93870",
+            "mediaKeyTimestamp": "1639072509",
+            "firstFrameLength": 14012,
+            "firstFrameSidecar": "UKKrB0ZKjV/K1A==",
+            "isAnimated": true
+        }
+    },
+    "messageTimestamp": "1639074431",
+    "ephemeralOutOfSync": false
+}

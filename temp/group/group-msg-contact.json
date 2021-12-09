@@ -1,0 +1,16 @@
+{
+    "key": {
+        "remoteJid": "120363022275948449@g.us",
+        "fromMe": false,
+        "id": "D543B4E749057BE5C792DFCF8EC96A75"
+    },
+    "message": {
+        "contactMessage": {
+            "displayName": "Ncing icih",
+            "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:icih;Ncing;;;\nFN:Ncing icih\nitem1.TEL;waid=6289523655783:+62 895-2365-5783\nitem1.X-ABLabel:Telepon\nEND:VCARD"
+        }
+    },
+    "messageTimestamp": "1639075428",
+    "participant": "6285813818822@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+}

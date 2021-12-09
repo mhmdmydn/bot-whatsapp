@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+    font-weight: normal;
+    list-style: none;
+    scroll-behavior: smooth;
+    scroll-padding-top: 32px;
+
+}
+
+html::-webkit-scrollbar {
+    width: 7px;
+}
+
+html::-webkit-scrollbar-track {
+    background: #eee;
+    border-radius: 50px;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: #3B82F6;
+    border-radius: 50px;
+}
+
+body {
+    background: #e2e1e0;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    padding: 3rem;
+}
+h1 {
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin-bottom: 1.5rem;
+}
+
+.card {
+    width: 100%;
+    padding: 5px 5%;
+    margin-bottom: 1.5rem;
+    display: grid;
+    grid-template-columns: 1.5fr 2fr;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.card .qr-box {
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    border-radius: 5px;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;;
+}
+
+.card .qr-box h3 {
+    color: #3B82F6;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.card .qr-box img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card .message-box {
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.card .message-box .messages {
+    height: 404px;
+
+    overflow-y: scroll;
+}
+
+.card .message-box .messages::-webkit-scrollbar {
+    width: 7px;
+}
+
+.card .message-box .messages::-webkit-scrollbar-track {
+    background: #e2e1e0;
+    border-radius: 50px;
+}
+
+.card .message-box .messages::-webkit-scrollbar-thumb {
+    background:#3B82F6;
+    border-radius: 50px;
+}
+
+.card .message-box h3{
+    color: #3B82F6;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.card .message-box ul li{
+    width: 100%;
+    padding: 4px;
+    font-size: 14px;
+    color: #999;
+}
+
+.card .message-box ul li:hover{
+    background: #eee;
+    border-radius: 5px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+
+@media (max-width: 991px) {
+
+    .card {
+        padding: 10px;
+        grid-template-columns: 1.5fr 1fr;
+    }
+
+    .card .qr-box img {
+        width: 300px;
+    }
+}
+
+@media (max-width: 760px) {
+
+    .card {
+        grid-template-columns: 1fr;
+    }
+
+    .card .qr-box img {
+        width: 200px;
+    }
+}
+

@@ -1,0 +1,16 @@
+{
+    "key": {
+        "remoteJid": "120363022275948449@g.us",
+        "fromMe": false,
+        "id": "F96497AF9B6A586D803AF0764C108A60"
+    },
+    "message": {
+        "contactMessage": {
+            "displayName": "Nomor Tri",
+            "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:Tri;Nomor;;;\nFN:Nomor Tri\nitem1.TEL;waid=6289630728192:+62 896-3072-8192\nitem1.X-ABLabel:Telepon\nEND:VCARD"
+        }
+    },
+    "messageTimestamp": "1639075346",
+    "participant": "6285813818822@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+}

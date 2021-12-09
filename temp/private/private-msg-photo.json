@@ -1,0 +1,32 @@
+{
+    "key": {
+        "remoteJid": "6285813818822@s.whatsapp.net",
+        "fromMe": false,
+        "id": "9EAFB679ED7E0BD17017BC4F7A3E9C0F"
+    },
+    "message": {
+        "imageMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AuSoQ7CmTu-AQ_ISHzm3_qdBZkfI40VacuP0SzkmvQBc.enc",
+            "mimetype": "image/jpeg",
+            "fileSha256": "Wy+makuNT3aJjYoai35PxAn5B9EY2wgNVDgOdSzEnaY=",
+            "fileLength": "4042",
+            "height": 153,
+            "width": 153,
+            "mediaKey": "40+9Q4Tohc3t7adXhacKZyLyRro6q2sLG1P7jsLEE4Q=",
+            "fileEncSha256": "BJ8HQLzoGng8TydgqjUWfQw6rnIPSCwr8B2gODQHNo8=",
+            "directPath": "/v/t62.7118-24/35723015_4718496311543008_2394023574708098946_n.enc?ccb=11-4&oh=c9684e95d360dcbab82c7f45adf6d588&oe=61D85618",
+            "mediaKeyTimestamp": "1639074331",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgASAMBIgACEQEDEQH/xAAxAAACAwEBAAAAAAAAAAAAAAAAAQIEBQMGAQACAwEAAAAAAAAAAAAAAAABAgADBAX/2gAMAwEAAhADEAAAAPOby0ExsBc44uR07ah8oehH22wEw9YWbjaMo10WzeN6itLAFce/G+bO6kWbpwCGFS9xFecRK8Eo5+iWrvtxhJRckgIGVQ2ee3gbVpRCvn8mBZ1ANmCA+7//xAAlEAACAgECBgIDAAAAAAAAAAABAgADEQQhEBITMVFSQYEiYnH/2gAIAQEAAT8ARGsYKoyTNLoVqAZt2mNhADMGEHaAGanRpePDS6l6XKsJoNKKlDsPyPD4g4H4g4avTi9P2gI8QkeIgVkIxvB37Tlb1h2xtMKteSNzMjxCR4gEIlFBOGMFaDsJgQordxLqCdxMQiCUV8779hLGNaEgZxKbDYgYjHB2KqSBmU2GxclcTU1hTzCGAzTsiruQDOpX7CdSv2E6iewnUT2E6iewl7I1Z3E5oMeY65+YQR8wf2fc+4P7PuETQaoWKEY/kIYy5EAIPEcNXqBSn7RHZGDKcETS69bQFfZpnYQjPDMBmo1aUjy0tte1izGf/8QAGhEAAgMBAQAAAAAAAAAAAAAAARAAESAxEv/aAAgBAgEBPwAnAKqeYUGeLmKuEML/xAAeEQACAwACAwEAAAAAAAAAAAABAgADERAhMUFRFP/aAAgBAwEBPwC63dVfHIYrhES5WHZw8LSXAPifm+NLFKkDJ3KlDMNnvzNH2WKGTCe4YwKHIDs2bFqZxoliB17nvipQ7d8f/9k=",
+            "scansSidecar": "LNKKDZ1u51N6K82K5hGfju1RWrlJIapHjT3gdBPQyK56uPCVi8Y3gQ==",
+            "scanLengths": [
+                570,
+                2135,
+                605,
+                732
+            ],
+            "midQualityFileSha256": "EslFTYmA28r+JXzrXvzlruNLkVPS74cXKLyPrLdAxQc="
+        }
+    },
+    "messageTimestamp": "1639074334",
+    "ephemeralOutOfSync": false
+}

@@ -1,0 +1,20 @@
+{
+    "jid": "6285813818822@s.whatsapp.net",
+    "count": 46,
+    "t": 1639076796,
+    "hasNewMessage": true,
+    "messages": [
+        {
+            "key": {
+                "remoteJid": "6285813818822@s.whatsapp.net",
+                "fromMe": false,
+                "id": "F5D3F0277944668DEA70894EA93601F8"
+            },
+            "message": {
+                "conversation": "Ndndndnd"
+            },
+            "messageTimestamp": "1639076796",
+            "ephemeralOutOfSync": false
+        }
+    ]
+}
