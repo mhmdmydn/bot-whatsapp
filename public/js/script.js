@@ -1,6 +1,7 @@
 const socket = io();
-
-var ul = document.getElementById("logs");
+const ul = document.getElementById("logs");
+const footer = document.getElementById('year');
+footer.innerHTML = '©' + new Date().getFullYear();
 
 
 socket.on("qr", (imgURI) => {

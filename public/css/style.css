@@ -96,8 +96,7 @@ h1 {
 }
 
 .card .message-box .messages {
-    height: 404px;
-
+    height: 467px;
     overflow-y: scroll;
 }
 
